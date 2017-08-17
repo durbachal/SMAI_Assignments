@@ -1,0 +1,2 @@
+# SMAI_Assignments
+SMAI Coding Assignments - Perceptron, Voted Perceptron, LMS, Neural Network for optical character recognition, Training a SVM Classifier, Naive Bayes Classifier for UCI Census-Income (KDD) Data Set.
